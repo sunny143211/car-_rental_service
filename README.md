@@ -1,9 +1,8 @@
 # car-_rental_service
 it is developed with OOPs concept in java and it run in command 
-# 🚗 Car Rental Management System (Java)
+#  Car Rental Management System (Java)
 
-A console-based Car Rental Management System developed using Core Java and Object-Oriented Programming principles.  
-This project simulates a real-world car rental workflow including renting, returning, and availability tracking.
+
 
 ---
 
