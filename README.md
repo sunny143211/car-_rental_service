@@ -7,7 +7,7 @@ This project simulates a real-world car rental workflow including renting, retur
 
 ---
 
-## 📌 Features
+##  Features
 
 - View available cars
 - Rent a car
@@ -18,7 +18,7 @@ This project simulates a real-world car rental workflow including renting, retur
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - OOP (Encapsulation, Classes & Objects)
@@ -27,7 +27,7 @@ This project simulates a real-world car rental workflow including renting, retur
 
 ---
 
-## 🧠 OOP Concepts Implemented
+##  OOP Concepts Implemented
 
 - Class & Object Creation
 - Encapsulation (Private Variables + Getters)
@@ -37,7 +37,7 @@ This project simulates a real-world car rental workflow including renting, retur
 
 ---
 
-## ▶ How to Run the Project
+##How to Run the Project
 
 1. Compile the program:
    ```
@@ -45,15 +45,9 @@ This project simulates a real-world car rental workflow including renting, retur
    ```
 
 2. Run the program:
-   ```
    java Main
-   ```
-
----
-
-## 📂 Project Structure
-
-```
+   
+ Project Structure
 CarRentalSystem
 │
 ├── Car.java
@@ -61,21 +55,3 @@ CarRentalSystem
 ├── Rental.java
 ├── CarRentalSystem.java
 └── Main.java
-```
-
----
-
-## 🎯 Future Enhancements
-
-- File handling for data persistence
-- Admin login system
-- GUI version using JavaFX/Swing
-- Database integration (MySQL)
-
----
-
-## 👨‍💻 Author
-
-Sunny Kumar  
-B.Tech CSE (Data Science)  
-Java Developer (Fresher)
